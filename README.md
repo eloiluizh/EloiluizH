@@ -1,4 +1,4 @@
-### Olá, esse o meu primeiro repositório e aqui vou publicar alguns "projetos" feitos em html,css,js ou em outras linguagens de programação futuramente.
+### Olá, esse o meu primeiro repositório e aqui vou publicar alguns "projetos" feitos em html,css,js ou em outras linguagens de programação futuramente... ah e não me pergunte pq eu coloquei meu nome como o nome de um repositório :).
 
 <!--
 **eloiluizh/EloiluizH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
