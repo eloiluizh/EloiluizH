@@ -1,0 +1,76 @@
+@font-face {
+    font-family: Product Sans;
+    src: url(Product\ Sans\ Bold.ttf) format('truetype');
+}
+body {
+    background: rgb(60, 127, 209);
+    font: normal 20pt Product Sans;
+}
+header {
+    color: white;
+    text-align: center;
+}
+section {
+    color: white;
+    font-size: 13pt;
+    outline: 5px solid white;
+    background: rgba(255, 255, 255, 0);
+    border-radius: 20px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    margin-bottom: -10px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.308);
+}
+.txtn:focus {
+    border: 0;
+    outline: 0;
+    border-bottom: 2px solid white;
+}
+.txtn {
+    background-color: transparent;
+    border: 0;
+    font: normal 10pt Product Sans;
+    color: white;
+    border-bottom: 2px solid white;
+}
+.txtb {
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 50px;
+    font: normal 9pt Product Sans;
+    color: white;
+    background-color: transparent;
+}
+.divlista {
+    position: relative;
+    top: 14px;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+select {
+    background-color: transparent;
+    border-radius: 8px;
+    font: normal 10pt Product Sans;
+    color: white;
+    border: 2px solid white;
+    overflow: auto;
+}
+.b-finalizar {
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 8px;
+    width: 122px;
+    margin-top: 7px;
+    font: normal 10pt Product Sans;
+    color: white;
+    background-color: transparent;
+}
+.textos {
+    border-radius: 7px;
+    margin-top: 30px;
+}
+p {
+    margin-left: 8px;
+}
